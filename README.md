@@ -2,6 +2,8 @@
 
 Generate random number by using ```Random()``` and by String interpolation and replacing the number of the dice and loading images, because image files names are ending with an integer therefore we can pass our value from Random() function. 
 
+Also using Stateful widget and SetState() function to control the state of the app. 
+
 ### Youtube Tutorial: https://www.youtube.com/watch?v=hPMGG46qr_w&list=PLKETiCsEsH0rtLEEOBAKRHsJrIv3ko2iW&index=1
 
 
